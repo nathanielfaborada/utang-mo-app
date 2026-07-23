@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Utang Mo</string>
+    <string name="title_activity_main">Utang Mo</string>
+    <string name="package_name">com.utangmo.app</string>
+    <string name="custom_url_scheme">com.utangmo.app</string>
+</resources>
